@@ -1,4 +1,5 @@
-# test-template
+# Basic calculator Java
+A basic calculator project (sum, subtract, division and multiply)
 
 # Run project
 For run project go to src/main/java/Exercise Java Class and run main method
