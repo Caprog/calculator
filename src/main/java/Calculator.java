@@ -1,23 +1,19 @@
 public class Calculator {
 
     public float sum(float a, float b) {
-        float sum = a + b;
-        return sum;
+        return a + b;
     }
 
     public float subtract(float a, float b) {
-        float subtract = a - b;
-        return subtract;
+        return a - b;
     }
 
     public float division(float a, float b) {
-        float division = a / b;
-        return division;
+        return a / b;
     }
 
     public float multiply(float a, float b) {
-        float multiply = a * b;
-        return multiply;
+        return a * b;
     }
 
     public static void main(String[] args) {
